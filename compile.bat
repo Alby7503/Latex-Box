@@ -1,0 +1,1 @@
+C:/texlive/2024/bin/windows/pdflatex box.tex
